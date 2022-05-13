@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: BancoSol 30 años
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "https://gitjhordy.github.io/" # the subpath of your site, e.g. /blog/
